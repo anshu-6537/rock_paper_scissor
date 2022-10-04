@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">rock_paper_scissor</string>
+    <string name="rock_paper_scissor">Rock paper Scissor</string>
+    <string name="reset">Reset</string>
+    <string name="you">You</string>
+    <string name="ai">AI</string>
+</resources>
